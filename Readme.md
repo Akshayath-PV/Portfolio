@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and React.js. It sh
 
 ## 🔗 Live Preview
 
-[Visit Portfolio](https://github.com/Akshayath-PV/portfolio)
+[Visit Portfolio](https://akshayath-portfolio.web.app/)
 ## 🛠️ Tech Stack
 
 - HTML
@@ -39,7 +39,7 @@ portfolio/
 ## 📸 Preview
 
 <div align="center">
-  <a href="https://github.com/Akshayath-PV/portfolio" target="_blank" rel="noopener noreferrer"><img width="100%" height="auto" src="\public\Screenshot 2025-09-17 194215.png" alt="Screenshot of Portfolio" /></a>
+  <a href="https://akshayath-portfolio.web.app/" target="_blank" rel="noopener noreferrer"><img width="100%" height="auto" src="\public\Screenshot 2025-09-17 194215.png" alt="Screenshot of Portfolio" /></a>
 </div>
 
 ## 📬 Contact
